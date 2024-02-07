@@ -6,5 +6,5 @@
      - sudo systemctl restart  php-fpm
 
 some useful links
-      - https://stackoverflow.com/questions/23640576/how-to-get-php-installation-path
-      - https://www.linode.com/docs/guides/how-to-use-nginx-fastcgi-page-cache-with-wordpress/
+     - https://stackoverflow.com/questions/23640576/how-to-get-php-installation-path
+     - https://www.linode.com/docs/guides/how-to-use-nginx-fastcgi-page-cache-with-wordpress/
